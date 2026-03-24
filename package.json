@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fhundhylee/Brandname.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fhundhylee/Brandname/issues"
+  },
+  "homepage": "https://github.com/Fhundhylee/Brandname#readme"
 }
